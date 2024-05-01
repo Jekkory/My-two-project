@@ -1,0 +1,31 @@
+body{background-image: url(https://catherineasquithgallery.com/uploads/posts/2023-01/1674284262_catherineasquithgallery-com-p-fon-dlya-chata-serii-foto-22.jpg)}
+p{font-size: 20px; float: right; font-family: 'Times New Roman', Times, serif}
+#Introduction{background-color: azure; width: 800px; height: 580px; margin: auto;
+    img
+    {
+        width: 290px;
+        height: 250px;
+        margin: 10px auto 20px;
+        display: block;
+    }
+}
+#generalinformation{background-color: azure; width: 1000px; height: 1000px; margin: auto;
+    img
+    {
+        width: 290px;
+        height: 250px;
+        margin: 10px auto 20px;
+        display: block;
+    }
+}
+#networktopology{background-color: rgb(76, 188, 188); width: 800px; height: 800px; margin: auto; 
+    img
+    {
+        width: 600px;
+        height: 350px;
+        margin: 10px auto 20px;
+        display: block;
+    }
+}
+#theevolutionofnetworks{background-color: azure; width: 750px; height: 600px; margin: auto;}
+

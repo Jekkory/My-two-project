@@ -1,0 +1,8 @@
+body{background-image: url(https://catherineasquithgallery.com/uploads/posts/2023-01/1674284262_catherineasquithgallery-com-p-fon-dlya-chata-serii-foto-22.jpg)}
+#page{width: 800px; background: #ffffcc; font-family: Arial, Helvetica, sans-serif; margin: auto;}
+#header{background: #ee8585; width: 800px; height: 100px; margin-bottom: 15px;}
+#menu{background-color: #e8e8e8; width: 140px; height: 300px;}
+#content{background-color: #b1b1b6; width:650px ; height: 300px; float: right; font-family: Georgia, Times, serif;}
+h1{text-align: center;}
+h2{font-weight: normal; font-size: 14px;}
+a{text-decoration:none;  color: inherit;}
